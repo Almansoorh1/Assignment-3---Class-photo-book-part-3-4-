@@ -1,0 +1,58 @@
+<?php
+    $profiles = [
+        [
+          'name' => 'Hamad Almansoori',
+          'designation' => 'Student',
+          'avataar'=> 'assets\images\avatar2.png',
+          'profession' => 'Network Architect',
+          'company' => 'Apple',
+          'email' => 'almansoorh1@mymail.nku.edu',
+          'intro' => 'I am a Computer Science student. My aim is to gain knowledge of electronics, mathematics, digital logic design, programming languages, circuit analysis and Network Infrastructure in order to provide IT business solution to clients.',
+          'quote' => 'Today I choose life. Every morning when I wake up I can choose joy, happiness, negativity, pain... To feel the freedom that comes from being able to continue to make mistakes and choices - today I choose to feel life, not to deny my humanity but embrace it.',
+          'funfact' => 'If I could have any superpower, it would be to speak any language so I could connect with anyone in the world.',
+          'skill1'=>'Network Fundamentals',
+          'skill2'=>'Network Administration',
+          'skill3'=>'Troubleshooting Network Errors',
+          'percent1'=>'85',
+          'percent2'=>'70',
+          'percent3'=>'77',
+          'birthdate'=>'2000-02-04'
+        ],
+        [
+          'name' => 'Nazrul Islam',
+          'designation' => 'UI Designer',
+          'avataar'=> 'assets\images\avatar5.png',
+          'profession' => 'Server-Side Developer',
+          'company' => 'Google',
+          'email' => 'support@technol.com',
+          'intro' => 'Along with your plans, you should consider developing an action orientation that will keep you motivated to move forward at all times. This requires a little self-discipline, but is a crucial component to achievement of any kind. Before starting any new activity, ask yourself if that activity will move you closer to your goals. If the answer is no, you may want to reconsider doing it at that time.',
+          'quote' => 'The price is something not necessarily defined as financial. It could be time, effort, sacrifice, money or perhaps, something else.',
+          'funfact' => 'It is truly amazing the damage that we, as parents, can inflict on our children. So why do we do it? For the most part, we don’t do it intentionally or with malice. In the majority of cases, the cause is a well-meaning but unskilled or un-thinking parent, who says the wrong thing at the wrong time, and the message sticks – as simple as that!',
+          'skill1'=>'Network Fundamentals',
+          'skill2'=>'Network Administration',
+          'skill3'=>'Troubleshooting Network Errors',
+          'percent1'=>'85',
+          'percent2'=>'70',
+          'percent3'=>'77',
+          'birthdate'=>'1990-05-12'
+        ],
+        [
+          'name' => 'Riyadh Khan',
+          'designation' => 'Developer',
+          'avataar'=> 'assets\images\avatar4.png',
+          'profession' => 'Server-Side Developer',
+          'company' => 'Google',
+          'email' => 'support@technol.com',
+          'intro' => 'Along with your plans, you should consider developing an action orientation that will keep you motivated to move forward at all times. This requires a little self-discipline, but is a crucial component to achievement of any kind. Before starting any new activity, ask yourself if that activity will move you closer to your goals. If the answer is no, you may want to reconsider doing it at that time.',
+          'quote' => 'The price is something not necessarily defined as financial. It could be time, effort, sacrifice, money or perhaps, something else.',
+          'funfact' => 'It is truly amazing the damage that we, as parents, can inflict on our children. So why do we do it? For the most part, we don’t do it intentionally or with malice. In the majority of cases, the cause is a well-meaning but unskilled or un-thinking parent, who says the wrong thing at the wrong time, and the message sticks – as simple as that!',
+          'skill1'=>'Network Fundamentals',
+          'skill2'=>'Network Administration',
+          'skill3'=>'Troubleshooting Network Errors',
+          'percent1'=>'85',
+          'percent2'=>'70',
+          'percent3'=>'77',
+          'birthdate'=>'1993-01-25'
+        ],
+    ];
+?>
